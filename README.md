@@ -98,5 +98,5 @@ This project demonstrates practical implementation of **CI/CD best practices** u
 ## 👤 Author
 
 **Nayan Nath**  
-Final Project – CI/CD Tools and Practices  
+CI/CD Tools and Practices  
 IBM
